@@ -132,7 +132,7 @@
 
         <footer class="mt-20 text-center text-gray-500 text-sm border-t border-white/5 pt-10">
             <p class="mb-2 italic">"To infinity and beyond. 👨‍💻🚀"</p>
-            <p>&copy; <?php echo date("Y"); ?> Muhamad Syafii. Crafted in Cirebon.</p>
+            <p>&copy; <?php echo date("Y"); ?> Muhamad Syafii.</p>
         </footer>
     </div>
 

@@ -1,6 +1,6 @@
 <?php
 // Masukkan API Key Anda di sini
-$apiKey = 'AIzaSyBYe8hJXv13H978TeSorCukgY-pXRf8rKc'; 
+$apiKey = 'PLEASE_INPUT_APIE_KEY_FROM_GEMINI_STUDIO'; 
 
 $url = 'https://generativelanguage.googleapis.com/v1beta/models?key=' . $apiKey;
 

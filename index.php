@@ -75,7 +75,7 @@
     </div>
 
     <div class="flex items-center gap-3">
-    <a href="about.php" target="_blank" class="px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-[#0194f3] transition-colors">
+    <a href="about.php" class="px-4 py-2 text-sm font-medium text-gray-600 dark:text-gray-300 hover:text-[#0194f3] transition-colors">
         About
     </a>
         

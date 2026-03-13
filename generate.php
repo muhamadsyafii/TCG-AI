@@ -1,7 +1,9 @@
 <?php
 include 'koneksi.php';
 
-$apiKey = 'AIzaSyBYe8hJXv13H978TeSorCukgY-pXRf8rKc'; 
+
+$apiKey = ' PLEASE_INPUT_APIE_KEY_FROM_GEMINI_STUDIO'; 
+
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $projectName = $_POST['project_name'];
